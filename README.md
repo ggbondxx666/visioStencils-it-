@@ -5,7 +5,7 @@
 ![Visio stencils](https://img.shields.io/badge/visio_shapes-3,500-186ADE)
 ![Vision templates](https://img.shields.io/badge/visio_templates-80-186ADE)
 ![Visio documents](https://img.shields.io/badge/visio_documents-906-186ADE)
-
+这是一份基于原作者之后更新的visio图，删去了一部分无关it，以及旧的内容2004之前。
 # About
 This repository consolidate more than 4,480 Microsoft Visio artefacts that I have collected and used over the years. Your stencils and templates library does not have to be unique, everyone strives for consistency. Fork this repository and improve *your* library. Even better, send me an update :wink:
 
